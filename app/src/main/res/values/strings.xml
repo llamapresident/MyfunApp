@@ -1,0 +1,14 @@
+<resources>
+    <string name="cupcake_amount">0</string>
+    <string name="donut_amount">0</string>
+    <string name="eclair_amount">0</string>
+    <string name="froyo_amount">0</string>
+    <string name="gingerbread_amount">0</string>
+    <string name="honeycomb_amount">0</string>
+    <string name="icecreamsandwich_amount">0</string>
+    <string name="jellybean_amount">0</string>
+    <string name="kitkat_amount">0</string>
+    <string name="lollipop_amount">0</string>
+    <string name="marshmallow_amount">0</string>
+    <string name="nougat_amount">0</string>
+</resources>
